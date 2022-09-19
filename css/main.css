@@ -387,7 +387,7 @@ body {
   position: relative;
   height: 866px;
   width: 100%;
-  background-image: url("images/slice_engine.jpg");
+  background-image: url("../images/slice_engine.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -398,7 +398,7 @@ body {
   top: 0px;
   width: 50%;
   height: 100%;
-  background-image: url("images/slice_left.png");
+  background-image: url("../images/slice_left.png");
   border-right: 1px solid white;
 }
 
@@ -427,13 +427,13 @@ body {
 .slice__section-button-rightimg {
   width: 15px;
   height: 15px;
-  background-image: url("images/front-block-button-leftimg.png");
+  background-image: url("../images/front-block-button-leftimg.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slice__section-button-rightimg {
-  background-image: url("images/front-block-button-rightimg.png");
+  background-image: url("../images/front-block-button-rightimg.png");
 }
 
 .slice__section-button-centerimg {
@@ -901,7 +901,7 @@ body {
   padding: 31px 31px 0px 0px;
   width: 100%;
   height: 100%;
-  background-image: url("images/about-bottom-img.png");
+  background-image: url("../images/about-bottom-img.png");
   background-repeat: no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1231,14 +1231,14 @@ body {
   top: 111px;
   width: 68.2px;
   height: 46.95px;
-  background-image: url("images/network-video-paly-img.png");
+  background-image: url("../images/network-video-paly-img.png");
 }
 
 .network__main .network__locations .network__form {
   margin-top: 100px;
   width: 100%;
   height: 540px;
-  background-image: url("images/network-form-bg.png");
+  background-image: url("../images/network-form-bg.png");
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1349,7 +1349,7 @@ body {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-image: url("images/network-form-arrow-select.png");
+  background-image: url("../images/network-form-arrow-select.png");
   background-repeat: no-repeat;
   background-position: 313px;
 }
@@ -1775,7 +1775,7 @@ body {
         -ms-flex-pack: start;
             justify-content: start;
     padding: 207px 10px 0 15px;
-    background-image: url("images/about-bottom-img-ipad.png");
+    background-image: url("../images/about-bottom-img-ipad.png");
   }
 
   .about__main .benefits__section-bottom-block div span a {
@@ -2042,7 +2042,7 @@ body {
     margin: 49px auto 0px;
     max-width: 708px;
     border-radius: 5px;
-    background-image: url("images/moblie_form.png");
+    background-image: url("../images/moblie_form.png");
   }
 
   .network__main .network__locations .network__form h2 {
@@ -3158,7 +3158,7 @@ body {
 
   .about__main .benefits__section-bottom-block div {
     padding: 92px 10px 0 12px;
-    background-image: url("images/about-bottom-img-mobile.png");
+    background-image: url("../images/about-bottom-img-mobile.png");
   }
 
   .about__main .benefits__section-bottom-block div span a {
@@ -3644,33 +3644,33 @@ body {
   }
 }
 
-.webp .slice__section-container { background-image: url(images/slice_engine.webp); }
+.webp .slice__section-container { background-image: url(../images/slice_engine.webp); }
 
-.webp .slice__section-left { background-image: url(images/slice_left.webp); }
+.webp .slice__section-left { background-image: url(../images/slice_left.webp); }
 
-.webp .slice__section-button-leftimg, .webp .slice__section-button-rightimg { background-image: url(images/front-block-button-leftimg.webp); }
+.webp .slice__section-button-leftimg, .webp .slice__section-button-rightimg { background-image: url(../images/front-block-button-leftimg.webp); }
 
-.webp .slice__section-button-rightimg { background-image: url(images/front-block-button-rightimg.webp); }
+.webp .slice__section-button-rightimg { background-image: url(../images/front-block-button-rightimg.webp); }
 
-.webp .about__main .benefits__section-bottom-block div { background-image: url(images/about-bottom-img.webp); }
+.webp .about__main .benefits__section-bottom-block div { background-image: url(../images/about-bottom-img.webp); }
 
-.webp .network__main .network__locations .network__videos-container-mini-block-img::before { background-image: url(images/network-video-paly-img.webp); }
+.webp .network__main .network__locations .network__videos-container-mini-block-img::before { background-image: url(../images/network-video-paly-img.webp); }
 
-.webp .network__main .network__locations .network__form { background-image: url(images/network-form-bg.webp); }
+.webp .network__main .network__locations .network__form { background-image: url(../images/network-form-bg.webp); }
 
-.webp .network__main .network__locations .network__form-block select { background-image: url(images/network-form-arrow-select.webp); }
+.webp .network__main .network__locations .network__form-block select { background-image: url(../images/network-form-arrow-select.webp); }
 
 @media (max-width: 1440px) {
 
-  .webp .about__main .benefits__section-bottom-block div { background-image: url(images/about-bottom-img-ipad.webp); }
+  .webp .about__main .benefits__section-bottom-block div { background-image: url(../images/about-bottom-img-ipad.webp); }
 }
 
 @media screen and (max-width: 1200px) {
 
-  .webp .network__main .network__locations .network__form { background-image: url(images/moblie_form.webp); }
+  .webp .network__main .network__locations .network__form { background-image: url(../images/moblie_form.webp); }
 }
 
 @media (max-width: 550px) {
 
-  .webp .about__main .benefits__section-bottom-block div { background-image: url(images/about-bottom-img-mobile.webp); }
+  .webp .about__main .benefits__section-bottom-block div { background-image: url(../images/about-bottom-img-mobile.webp); }
 }
