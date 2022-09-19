@@ -1316,31 +1316,31 @@ body {
 
 .network__main .network__locations .network__form-block input::-webkit-input-placeholder {
   line-height: normal;
-  padding-bottom: 36px;
+  padding:0 0 36px 0;
   color: #828282;
 }
 
 .network__main .network__locations .network__form-block input::-moz-placeholder {
   line-height: normal;
-  padding-bottom: 36px;
+  padding:0 0 36px 0;
   color: #828282;
 }
 
 .network__main .network__locations .network__form-block input:-ms-input-placeholder {
   line-height: normal;
-  padding-bottom: 36px;
+  padding:0 0 36px 0;
   color: #828282;
 }
 
 .network__main .network__locations .network__form-block input::-ms-input-placeholder {
   line-height: normal;
-  padding-bottom: 36px;
+  padding:0 0 36px 0;
   color: #828282;
 }
 
 .network__main .network__locations .network__form-block input::placeholder {
   line-height: normal;
-  padding-bottom: 36px;
+  padding:0 0 36px 0;
   color: #828282;
 }
 
