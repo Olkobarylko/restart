@@ -1201,6 +1201,14 @@ body {
   gap: 47px 41px;
 }
 
+.button-hover{
+  transition: all 0.25s ease-in-out;
+}
+
+.button-hover:hover{
+  background: #333333;
+}
+
 .network__main .network__locations .network__videos-container-mini-block p {
   font-size: 16px;
 }
